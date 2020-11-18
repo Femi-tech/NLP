@@ -1,7 +1,7 @@
  # Tales From The Crypto...
 
 
-![Alt Text](https://media.giphy.com/media/1DQWAuidHJH8Y/giphy.gif)
+![NLP](Image/NLP-image.jpg)
 
 
 
